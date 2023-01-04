@@ -2,6 +2,7 @@
 In this project publicly available data from LendingClub.com is used.Lending Club connects people who need money (borrowers) with people who have money 
 (investors).Hopefully, as an investor you would want to invest in people who showed a profile of having a high probability of paying you back. 
 Lending data from 2007-2010 is used to classify and predict whether or not the borrower paid back their loan in full. 
+
 Here are what the columns represent:
   •	credit.policy: 1 if the customer meets the credit underwriting criteria of LendingClub.com, and 0 otherwise.
   •	purpose: The purpose of the loan (takes values "credit_card", "debt_consolidation", "educational", "major_purchase", "small_business", and "all_other").
